@@ -1,0 +1,124 @@
+{
+  "nav": {
+    "home": "Home",
+    "portfolio": "Our Work",
+    "about": "About",
+    "contact": "Contact",
+    "unleashProject": "Start a Project"
+  },
+  "footer": {
+    "brandText": "Web development & design studio crafting modern digital experiences for growing businesses.",
+    "rightsReserved": "All rights reserved.",
+    "unleashCTA": "Have a project in mind? Let's talk.",
+    "startProjectBtn": "Get in Touch",
+    "quickLinksHeader": "Navigation",
+    "legalHeader": "Legal",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service"
+  },
+  "hero": {
+    "title_1": "Trust to TRXS",
+    "title_2": "for build your",
+    "title_3": " website",
+    "subtitle_business": "From custom web sites to e-commerce — we design and develop websites that look great, load fast, and help your business grow.",
+    "subtitle_developer": "Next.js, Tailwind CSS v4, TypeScript. Engineered for 100/100 Lighthouse performance, perfect SEO, and highly maintainable components.",
+    "cta_primary_business": "Start Your Project",
+    "cta_secondary_business": "View Selected Work",
+    "cta_primary_developer": "Check Out Git",
+    "cta_secondary_developer": "Inspect Our Architecture",
+    "toggle_business": "For Business",
+    "toggle_developer": "For Developers"
+  },
+  "frameworks": {
+    "tech_stack": "BUILT WITH MODERN TECHNOLOGY"
+  },
+  "arsenal": {
+    "title": "What We Do",
+    "subtitle": "Services We Offer",
+    "enterpriseTitle": "Custom Web Applications",
+    "enterpriseDesc": "Scalable and reliable web apps built with React & Next.js, tailored to fit your business workflows and goals.",
+    "ecommerceTitle": "E-Commerce Solutions",
+    "ecommerceDesc": "Online stores designed for a smooth shopping experience — fast checkout, clean design, and optimized for conversions.",
+    "appsTitle": "Corporate & Landing Pages",
+    "appsDesc": "Professional websites and landing pages that build trust, communicate your brand clearly, and turn visitors into customers."
+  },
+  "featuredWork": {
+    "title": "Featured Work",
+    "subtitle": "Quality over Quantity",
+    "viewAll": "Explore Our Process",
+    "project1Title": "Enterprise Dashboard",
+    "project1Desc": "A highly interactive real-time dashboard focusing on precise data visualization and fluid user interactions.",
+    "project2Title": "Aura Luxury Retail",
+    "project2Desc": "A premium concept e-commerce experience crafted with smooth transitions and subtle micro-interactions.",
+    "project3Title": "Active Development",
+    "project3Desc": "Currently designing a fully-customized web platform for our next client. Stay tuned."
+  },
+  "ctaBlock": {
+    "title_1": "Let's build something ",
+    "title_2": "great together.",
+    "subtitle": "Skip the templates. We'll work with you to create a custom website that fits your brand, reaches your audience, and delivers real results.",
+    "benefit1": "Custom design tailored to your brand",
+    "benefit2": "Clean code & fast performance",
+    "benefit3": "SEO-friendly & conversion-optimized",
+    "contactBtn": "Get a Free Quote",
+    "quote": "\"We reject cookie-cutter templates. We believe a premium brand deserves custom engineering built from the ground up for speed, scalability, and absolute conversion impact.\"",
+    "quoteAuthor": "TRXS Web Engineering",
+    "quoteAuthorTitle": "Next.js & Fullstack Developer"
+  },
+  "portfolio": {
+    "title": "Our Work",
+    "subtitle": "A selection of projects that showcase our capability to deliver premium, high-performing web solutions.",
+    "noProjects": "No projects found in this category.",
+    "filters": {
+      "all": "All",
+      "corporate": "Corporate Websites",
+      "apps": "Web Applications"
+    },
+    "projects": {
+      "thpe": {
+        "title": "THPE Electrical Engineering",
+        "description": "Design and installation of electrical systems for residential and commercial buildings."
+      },
+      "easytel": {
+        "title": "Easy Telemed",
+        "description": "A comprehensive prototype for online doctor consultations and medical bookings."
+      }
+    }
+  },
+  "about": {
+    "title": "Web Development & Engineering with Modern Technology",
+    "subtitle_1": "I am TRXS – a freelance Fullstack Developer dedicated to designing and building fast, secure, and user-friendly websites and web applications for businesses.",
+    "subtitle_2": "I focus on developing custom solutions tailored to your unique workflows and business needs, ensuring high performance, clean architecture, and scalability.",
+    "techMasteryTitle": "Technical Expertise",
+    "techMasteryDesc": "Building systems using Next.js, React, TypeScript, and Node.js to ensure the speed and reliability of your web platforms.",
+    "businessDesignTitle": "Business-Aligned Design",
+    "businessDesignDesc": "Optimizing user experience (UX/UI) and structure to help drive growth and improve customer engagement.",
+    "reliablePartnershipTitle": "Direct Collaboration",
+    "reliablePartnershipDesc": "Working closely with clients and communicating directly with the developer to ensure clarity and alignment on all features.",
+    "missionTitle": "My Mission",
+    "missionDesc": "To deliver high-performance web systems that are stable, fast, easy to maintain, and scalable for the long term.",
+    "ctaTitle": "Let's work together.",
+    "ctaDesc": "If you are looking for a corporate website or a custom web application built to support your business, feel free to discuss the details with me.",
+    "ctaBtn": "Get in Touch"
+  },
+  "contact": {
+    "title": "Contact Our Team",
+    "subtitle": "Ready to start your project? Fill out the form below and I will personally get back to you within 24 hours.",
+    "directTitle": "Direct Contact",
+    "directDesc": "Prefer to reach out directly? You can contact us using the information below. We are available Monday through Friday, 9am - 6pm EST.",
+    "labels": {
+      "name": "Full Name",
+      "company": "Company",
+      "email": "Work Email",
+      "budget": "Estimated Budget",
+      "message": "Project Details",
+      "send": "Send Message"
+    },
+    "budgetOptions": {
+      "tier1": "$10k - $25k",
+      "tier2": "$25k - $50k",
+      "tier3": "$50k - $100k",
+      "tier4": "$100k+"
+    }
+  }
+}
